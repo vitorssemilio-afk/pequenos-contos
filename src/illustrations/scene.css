@@ -1,0 +1,15 @@
+.scene-illustration {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: inherit;
+}
+
+.scene-illustration svg {
+  display: block;
+}
+
+.scene-character {
+  pointer-events: none;
+}
